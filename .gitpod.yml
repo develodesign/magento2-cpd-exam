@@ -4,6 +4,6 @@
 
 tasks:
   - init: yarn install
-          cd docs && yarn dev
+  - command: cd docs && yarn dev
 
 
