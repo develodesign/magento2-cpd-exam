@@ -1,0 +1,19 @@
+{
+  "name": "magento-2-cpd-exam-study-docs",
+  "version": "0.0.1",
+  "description": "Magento 2 Study Docs",
+  "main": "index.js",
+  "authors": {
+    "name": "Luke",
+    "email": "luke@develodesign.co.uk"
+  },
+  "repository": "https://github.com/develodesign/Magento-2-CPD-Exam-Study-Docs/magento-2-cpd-exam-study-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
